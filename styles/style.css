@@ -1,3 +1,18 @@
-#number-display:hover {
-    background: #555;
+#number-status-bar {
+    border: 2px solid #888;
+    border-radius: 4px;
+    display: inline-block;
+}
+#number-status-bar-minus,
+#number-status-bar-plus {
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+#number-status-bar-lock {
+    position: absolute;
+    top: -15px;
+    left: -15px;
+    font-size: 20px;
 }
