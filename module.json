@@ -10,6 +10,8 @@
     "styles": ["styles/style.css"],
     "packs": [],
     "esmodules": [],
-    "dependencies": []
+    "dependencies": [],
+    "manifest": "https://raw.githubusercontent.com/vavajke/fvtt-number-status-bar/refs/heads/main/module.json",
+    "download": "https://github.com/vavajke/fvtt-number-status-bar/archive/refs/tags/v0.1.zip"
   }
   
