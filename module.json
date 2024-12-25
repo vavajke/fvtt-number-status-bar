@@ -1,0 +1,15 @@
+{
+    "name": "number-status-bar",
+    "title": "Number Status Bar",
+    "description": "Displays a number (1-5) for the GM, which can be configured and saved.",
+    "version": "1.0.0",
+    "author": "vavajke",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "scripts": ["scripts/main.js"],
+    "styles": ["styles/style.css"],
+    "packs": [],
+    "esmodules": [],
+    "dependencies": []
+  }
+  
